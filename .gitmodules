@@ -7,3 +7,6 @@
 [submodule "02_Displaying_userData_with_toggle_theme"]
 	path = 02_Displaying_userData_with_toggle_theme
 	url = git@github.com:pooja-purohit-systango/Toggle_theme
+[submodule "01_Typescript_CRUD"]
+	path = 01_Typescript_CRUD
+	url = git@github.com:pooja-purohit-systango/Typescript_CRUD
