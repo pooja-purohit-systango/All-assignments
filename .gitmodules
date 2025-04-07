@@ -16,3 +16,6 @@
 [submodule "04_axios_interceptors"]
 	path = 04_axios_interceptors
 	url = git@github.com:pooja-purohit-systango/04_axios_interceptors/04_axios_interceptors
+[submodule "04_axios_interceptor"]
+	path = 04_axios_interceptor
+	url = git@github.com:pooja-purohit-systango/04_axios_interceptor
