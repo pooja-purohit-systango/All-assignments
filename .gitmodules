@@ -19,3 +19,6 @@
 [submodule "04_axios_interceptor"]
 	path = 04_axios_interceptor
 	url = git@github.com:pooja-purohit-systango/04_axios_interceptor
+[submodule "06_Weekend_assignment"]
+	path = 06_Weekend_assignment
+	url = git@github.com:pooja-purohit-systango/06_Weekend_assignment
