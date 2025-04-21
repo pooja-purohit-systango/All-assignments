@@ -22,3 +22,9 @@
 [submodule "06_Weekend_assignment"]
 	path = 06_Weekend_assignment
 	url = git@github.com:pooja-purohit-systango/06_Weekend_assignment
+[submodule "09_useMemo_assignment"]
+	path = 09_useMemo_assignment
+	url = git@github.com:pooja-purohit-systango/09_useMemo_assignment
+[submodule "09_useMemo_Assignment"]
+	path = 09_useMemo_Assignment
+	url = git@github.com:pooja-purohit-systango/09_useMemo_Assignment
