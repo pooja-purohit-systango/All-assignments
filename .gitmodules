@@ -31,3 +31,6 @@
 [submodule "10_useCallback_assignment"]
 	path = 10_useCallback_assignment
 	url = git@github.com:pooja-purohit-systango/10_useCallback_assignment
+[submodule "11_React.Lazy_assignment"]
+	path = 11_React.Lazy_assignment
+	url = git@github.com:pooja-purohit-systango/11_React.Lazy_assignment
